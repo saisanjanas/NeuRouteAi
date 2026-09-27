@@ -1,0 +1,9 @@
+{
+  "auth": { "login": "লগইন", "username": "ব্যৱহাৰকাৰীৰ নাম", "password": "পাছৱৰ্ড", "login_failed": "লগইন বিফল হ'ল। বিৱৰণ পৰীক্ষা কৰক।" },
+  "home": { "title": "ফিল্ড অফিচাৰ হ'ম", "start_tracking": "জিপিএছ ট্ৰেকিং আৰম্ভ কৰক", "stop_tracking": "জিপিএছ ট্ৰেকিং বন্ধ কৰক", "report_hazard": "বিপদ প্ৰতিবেদন কৰক", "shipment_status": "চালানৰ অৱস্থা", "change_language": "ভাষা সলনি কৰক" },
+  "hazard": { "title": "বিপদ প্ৰতিবেদন কৰক", "type": "বিপদৰ প্ৰকাৰ", "description": "বিৱৰণ", "submit": "প্ৰতিবেদন দাখিল কৰক", "queued_offline": "সংযোগ নাই — প্ৰতিবেদন সংৰক্ষিত হ'ল, সংযোগ পোৱাৰ পিছত সিংক হ'ব।", "submitted": "প্ৰতিবেদন সফলতাৰে দাখিল হ'ল।" },
+  "route": { "suggested_route": "প্ৰস্তাৱিত পথ", "risk_detected": "পথত বিপদ চিনাক্ত হৈছে" },
+  "shipment": { "delayed": "চালান পলম হৈছে", "status": "অৱস্থা", "eta": "আনুমানিক সময়" },
+  "alerts": { "road_blocked": "সন্মুখৰ পথ অৱৰুদ্ধ" },
+  "language": { "select": "ভাষা বাছক" }
+}

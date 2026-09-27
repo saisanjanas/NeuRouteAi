@@ -1,0 +1,39 @@
+{
+  "auth": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "login_failed": "Login failed. Check your credentials."
+  },
+  "home": {
+    "title": "Field Officer Home",
+    "start_tracking": "Start GPS Tracking",
+    "stop_tracking": "Stop GPS Tracking",
+    "report_hazard": "Report Hazard",
+    "shipment_status": "Shipment Status",
+    "change_language": "Change Language"
+  },
+  "hazard": {
+    "title": "Report Hazard",
+    "type": "Hazard Type",
+    "description": "Description",
+    "submit": "Submit Report",
+    "queued_offline": "No connection — report saved and will sync automatically.",
+    "submitted": "Report submitted successfully."
+  },
+  "route": {
+    "suggested_route": "Suggested Route",
+    "risk_detected": "Risk detected on route"
+  },
+  "shipment": {
+    "delayed": "Shipment delayed",
+    "status": "Status",
+    "eta": "ETA"
+  },
+  "alerts": {
+    "road_blocked": "Road blocked ahead"
+  },
+  "language": {
+    "select": "Select Language"
+  }
+}

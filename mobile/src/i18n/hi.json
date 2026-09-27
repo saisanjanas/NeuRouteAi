@@ -1,0 +1,9 @@
+{
+  "auth": { "login": "लॉगिन", "username": "उपयोगकर्ता नाम", "password": "पासवर्ड", "login_failed": "लॉगिन विफल। कृपया अपने विवरण जांचें।" },
+  "home": { "title": "फील्ड ऑफिसर होम", "start_tracking": "जीपीएस ट्रैकिंग शुरू करें", "stop_tracking": "जीपीएस ट्रैकिंग बंद करें", "report_hazard": "खतरे की रिपोर्ट करें", "shipment_status": "शिपमेंट स्थिति", "change_language": "भाषा बदलें" },
+  "hazard": { "title": "खतरे की रिपोर्ट करें", "type": "खतरे का प्रकार", "description": "विवरण", "submit": "रिपोर्ट सबमिट करें", "queued_offline": "कनेक्शन नहीं है — रिपोर्ट सहेजी गई है और स्वतः सिंक हो जाएगी।", "submitted": "रिपोर्ट सफलतापूर्वक सबमिट हुई।" },
+  "route": { "suggested_route": "सुझाया गया मार्ग", "risk_detected": "मार्ग पर जोखिम पाया गया" },
+  "shipment": { "delayed": "शिपमेंट में देरी", "status": "स्थिति", "eta": "अनुमानित समय" },
+  "alerts": { "road_blocked": "आगे सड़क अवरुद्ध है" },
+  "language": { "select": "भाषा चुनें" }
+}
