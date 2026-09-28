@@ -6,25 +6,26 @@ node_modules/
 .cache/
 
 # Android
-android/.gradle/
-android/app/build/
-android/build/
-android/local.properties
+mobile/android/.gradle/
+mobile/android/app/build/
+mobile/android/build/
+mobile/android/local.properties
 
 # iOS
-ios/Pods/
-ios/build/
-ios/DerivedData/
+mobile/ios/Pods/
+mobile/ios/build/
+mobile/ios/DerivedData/
+
+# Python
+backend/venv/
+__pycache__/
+.pytest_cache/
+*.pyc
 
 # Environment / secrets
 .env
 .env.*
 !.env.example
-
-# Python
-__pycache__/
-.pytest_cache/
-*.pyc
 
 # IDE
 .vscode/
@@ -34,3 +35,12 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Temporary React Native project
+NeuRouteAiTemp/
+
+# Local development database
+backend/db.sqlite3
+
+# Android debug signing key
+mobile/android/app/debug.keystore
