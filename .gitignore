@@ -1,0 +1,14 @@
+# Environment
+.env
+.venv/
+
+# Supabase local files
+.temp/
+
+# Large/raw ML datasets
+ML/data/Global_Landslide_Catalog_Export_rows.csv
+ML/data/imd/
+ML/data/ne_india_landslides_with_imd_rainfall.csv
+ML/data/ne_india_ml_dataset.csv
+ML/data/ne_india_landslides_with_elevation.csv
+ML/data/ne_india_landslides.csv
